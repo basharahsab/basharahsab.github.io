@@ -119,7 +119,145 @@
                                     <img src="img/events/test.jpg" alt="">
                                     <div class="blog_details">
                                         <a href="single-blog.html">
-                                            <h2>Ferdaus participated in the preparatory meeting for the Alliance of Civil Society Institutions</h2>
+                                            <h2>This is the first of many</h2>
+                                        </a>
+                                        <p>Al-Ferdaus participated in the preparatory meeting for the Alliance of Civil Society Institutions to enhance societal reconciliation efforts at the headquarters of the PalThink Foundation for Strategic Studies sponsoring the alliance in the presence of the Charge d'Affaires of the Swiss Ambassador with a number of partner institutions</p>
+                                        <a href="single-event.php" class="white_bg_btn">View More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="row blog_item">
+                            <div class="col-md-3">
+                                <div class="blog_info text-right">
+                                    <div class="post_tag">
+                                        <a href="#">Food,</a>
+                                        <a class="active" href="#">Technology,</a>
+                                        <a href="#">Politics,</a>
+                                        <a href="#">Lifestyle</a>
+                                    </div>
+                                    <ul class="blog_meta list">
+                                        <li>
+                                            <a href="#">Mark wiens
+                                                <i class="lnr lnr-user"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">12 Dec, 2017
+                                                <i class="lnr lnr-calendar-full"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">1.2M Views
+                                                <i class="lnr lnr-eye"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">06 Comments
+                                                <i class="lnr lnr-bubble"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <div class="blog_post">
+                                    <img src="img/events/test.jpg" alt="">
+                                    <div class="blog_details">
+                                        <a href="single-blog.html">
+                                            <h2>This is the second of many</h2>
+                                        </a>
+                                        <p>Al-Ferdaus participated in the preparatory meeting for the Alliance of Civil Society Institutions to enhance societal reconciliation efforts at the headquarters of the PalThink Foundation for Strategic Studies sponsoring the alliance in the presence of the Charge d'Affaires of the Swiss Ambassador with a number of partner institutions</p>
+                                        <a href="single-event.php" class="white_bg_btn">View More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="row blog_item">
+                            <div class="col-md-3">
+                                <div class="blog_info text-right">
+                                    <div class="post_tag">
+                                        <a href="#">Food,</a>
+                                        <a class="active" href="#">Technology,</a>
+                                        <a href="#">Politics,</a>
+                                        <a href="#">Lifestyle</a>
+                                    </div>
+                                    <ul class="blog_meta list">
+                                        <li>
+                                            <a href="#">Mark wiens
+                                                <i class="lnr lnr-user"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">12 Dec, 2017
+                                                <i class="lnr lnr-calendar-full"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">1.2M Views
+                                                <i class="lnr lnr-eye"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">06 Comments
+                                                <i class="lnr lnr-bubble"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <div class="blog_post">
+                                    <img src="img/events/test.jpg" alt="">
+                                    <div class="blog_details">
+                                        <a href="single-blog.html">
+                                            <h2>This is the third of many</h2>
+                                        </a>
+                                        <p>Al-Ferdaus participated in the preparatory meeting for the Alliance of Civil Society Institutions to enhance societal reconciliation efforts at the headquarters of the PalThink Foundation for Strategic Studies sponsoring the alliance in the presence of the Charge d'Affaires of the Swiss Ambassador with a number of partner institutions</p>
+                                        <a href="single-event.php" class="white_bg_btn">View More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="row blog_item">
+                            <div class="col-md-3">
+                                <div class="blog_info text-right">
+                                    <div class="post_tag">
+                                        <a href="#">Food,</a>
+                                        <a class="active" href="#">Technology,</a>
+                                        <a href="#">Politics,</a>
+                                        <a href="#">Lifestyle</a>
+                                    </div>
+                                    <ul class="blog_meta list">
+                                        <li>
+                                            <a href="#">Mark wiens
+                                                <i class="lnr lnr-user"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">12 Dec, 2017
+                                                <i class="lnr lnr-calendar-full"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">1.2M Views
+                                                <i class="lnr lnr-eye"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">06 Comments
+                                                <i class="lnr lnr-bubble"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <div class="blog_post">
+                                    <img src="img/events/test.jpg" alt="">
+                                    <div class="blog_details">
+                                        <a href="single-blog.html">
+                                            <h2>This is the fourth and final</h2>
                                         </a>
                                         <p>Al-Ferdaus participated in the preparatory meeting for the Alliance of Civil Society Institutions to enhance societal reconciliation efforts at the headquarters of the PalThink Foundation for Strategic Studies sponsoring the alliance in the presence of the Charge d'Affaires of the Swiss Ambassador with a number of partner institutions</p>
                                         <a href="single-event.php" class="white_bg_btn">View More</a>
